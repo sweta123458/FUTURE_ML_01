@@ -229,6 +229,11 @@ The Streamlit dashboard includes:
 - Monthly sales trends showed fluctuations throughout the year, indicating seasonality in customer demand.
 - Forecasting can support inventory planning and resource allocation.
 
+
+## Live App
+
+https://futureml01-pmyeloebhacfjkmgqbaqxs.streamlit.app/
+
 ## 👩‍💻 Author
 
 Sweta Agarwal
